@@ -1,2 +1,10 @@
+Criando um repositório no GitHub:
+1. Faça login no GitHub
+2. Na tela principal clique em New
+3. Escolha um nome para o seu repositório
+4. Defina o repositório como público ou privado
+5. Adicione o arquivo README
+6. Clique em Create Repository
+
 Link para download do Git: https://git-scm.com/downloads
 O Git Bash é um terminal extendido para otimizar o uso do Git.
